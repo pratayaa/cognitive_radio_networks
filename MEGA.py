@@ -1,7 +1,7 @@
 
 from __future__ import division, print_function  # Python 2 compatibility
 
-__author__ = "Lilian Besson"
+__author__ = "Prataya"
 __version__ = "0.9"
 
 from random import random
